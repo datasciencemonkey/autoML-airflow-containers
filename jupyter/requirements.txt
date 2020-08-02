@@ -1,3 +1,4 @@
 h2o==3.30.0.2
 jupyter
 tsfresh
+vaex==2.6.0
